@@ -23,10 +23,12 @@ body{
 }
 
 nav {
+	background-color: #3f758b;
 	display:flex;
 	align-items: center;
 	justify-content:space-between;
 	flex-wrap: wrap;
+	width: 100%;
 }
 
 nav ul li{
